@@ -35,5 +35,5 @@ io.on('connection', socket => {
 });
 
 server.listen(3000, () => {
-  console.log('Signaling server listening on http://192.168.1.106:3000');
+  console.log('Signaling server listening on https://signaling-server-8zqh.onrender.com');
 });
